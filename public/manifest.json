@@ -1,0 +1,15 @@
+{
+  "name": "Gilbert Ndresaj | Software Engineer",
+  "short_name": "Gilbert Ndresaj | Software Engineer",
+  "icons": [
+    {
+      "src": "favicon_large.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#152347",
+  "theme_color": "#152347"
+}
