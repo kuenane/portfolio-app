@@ -4,7 +4,7 @@
 
 ## :computer:  Deployment
 
-Hosted on netlify! [view site](https://gilbertndresaj.com)
+Hosted on netlify! [view site](https://mokoena.netlify.app/)
 
 ## :rocket: Project setup
 
@@ -34,9 +34,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * [Tailwind.css](https://tailwindcss.com/) - CSS Framework
 * [netlify](https://www.netlify.com/) - Free Hosting
 
-## :beetle: Issues
-You can trace the status of known issues [here](https://github.com/gilbertndr/portfolio/issues),
-also feel free to open a new issue (helpful description, log and images are appreciated), or send me an [email](mailto:gilbert.ndresaj@gmail.com) if you have any questions.
 
 
 
