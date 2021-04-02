@@ -11,7 +11,7 @@
         class="bg-primary-main text-background shadow-lg text-center rounded-sm"
       >
         <h1 class="font-bold md:text-3xl sm:text-2xl text-xl">
-          I create beautiful experiences
+          {I create experiences}
         </h1>
       </div>
     </div>
