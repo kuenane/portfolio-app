@@ -8,7 +8,6 @@ export default new Vuex.Store({
     profile: {
         name: "Lebohang",
         surname: "Kuenane",
-        birthDay: new Date(1995, 6, 7),
         startDescription: "Hey, I'm Lebo",
         description:
             ", a software engineer based in Johannesburg, South-Africa. Full-stack developer with industry experience building websites and web applications. I work with NodeJs and Django on the backend, React and Vue on the frontend. ",
