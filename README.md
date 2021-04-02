@@ -1,6 +1,6 @@
-# :sunglasses:  gilnd | portfolio
+# :sunglasses:  Lebohang Kuenane | portfolio
 
-> This is my personal portfolio Made with vue.js, please credit if you want to use it!
+> This is my personal portfolio Made with vue.js
 
 ## :computer:  Deployment
 
