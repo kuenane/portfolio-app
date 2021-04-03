@@ -99,10 +99,7 @@ export default new Vuex.Store({
             startDate: "November 2019",
             endDate: "March 2020",
             roles:[
-                {description:" Developed features and maintained an insurance engine, made with JavaEE & AngularJS for Intesa SanPaolo Assicura." },
-                {description:" Migrated projects from old Libraries & tools to new ones and improved general performance." },
-                {description:" Interfaced with Miroglio Group on a monthly basis providing help and support for new features and improvements." },
-                {description:" Developed, tested and maintained cross platform web applications that work on various devices and browsers es: bigEYE."}
+                {description:"Used Code For Fun to teach scratch and Python to a group of youngsters."}
             ]
         }, { 
             name: "Finchatbot",
