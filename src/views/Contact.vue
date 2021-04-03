@@ -7,9 +7,9 @@
         Get in touch
       </h1>
       <span class="text-label-info text-xl my-8">
-        I&rsquo;m not currently looking for a fulltime job but my inbox is
-        always open. Whether for a potential project or idea, I&rsquo;ll try my
-        best to answer your email! </span
+        I&rsquo;m open to new opportunities and making connections. Whether for
+        a potential project or idea, I&rsquo;ll try my best to answer your
+        email! </span
       ><br />
       <button
         class="my-8 rounded-sm text-lg p-4 border-2 text-primary-light hover:text-primary-main hover:bg-transparent-primary"

@@ -21,33 +21,32 @@ export default new Vuex.Store({
         ],
         frameworks: [
             { name: "Vue.js & Nuxt.js", level: 65 },
-            { name: "AngularJS / Angular2+", level: 85 },
+            { name: "React.js, Gatsby & Next", level: 85 },
             { name: "Tailwind.css", level: 80 },
-            { name: "Bootstrap", level: 80 },
+            { name: "Python & Django", level: 80 },
             { name: "Node.js & Express.js", level: 68 },
         ],
         tools:[
             { name: "Digital Ocean" },
             { name: "Amazon AWS" },
-            { name: "Maven" },
+            { name: "Docker" },
             { name: "Webpack" },
             { name: "Netlify" },
             { name: "Wordpress" }
         ]
     },
     projects: [{
-        name: "LeafPic Gallery",
-        description: "LeafPic is a fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. I worked as the major designer in this project, I designed and implemented features such as photo affix.",
-        link: "https://github.com/HoraApps/LeafPic",
+        name: "My portfolio template",
+        description: "A minimal porfolio website created with HTML, CSS and Javascript.",
+        link: "https://github.com/kuenane/Portfolio-WebApp",
         icon: "leaf",
-        startDate: "Jan 7, 2016",
+        startDate: "April, 2021",
         endDate: "Present",
-        developer: "HoraApps",
+        developer: "Lebohang Kuenane",
         tags: [
-            { name: "#opensource" },
-            { name: "#android" },
-            { name: "#app" },
-            { name: "#gallery" }
+            { name: "#HTML" },
+            { name: "#CSS" },
+            { name: "#Javascript" }
         ]
     }, {
         name: "portfolio",
