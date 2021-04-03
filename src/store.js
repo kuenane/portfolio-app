@@ -79,25 +79,25 @@ export default new Vuex.Store({
     ], events: [
         { 
             name: "Vyudu Inc",
-            description: "I work in this company as a fullstack developer, I mostly use JavaEE with Spring Boot and Angular for frontend!",
+            description: "I work in this company as a Full-stack developer",
             role: "Full Stack Developer ",
             type: "Work",
-            startDate: "Nov 2019",
+            startDate: "September 2020",
             endDate: "Present",
             roles:[
-                {description:" Improved and maintained ANGULAR 2 CUSTOM FRAMEWORK following UI and UX guidelines given by Intesa SanPaolo." },
-                {description:" Developed and maintained a back office payment webapp with Angular2 for Intesa SanPaolo." },
-                {description:" Developed features and maintained web applications used by italian public administration." },
-                {description:" Migrated from mongoDB v3 to mongoDB v4 , updated to the latest libraries and maintained an insurance engine for Intesa SanPaolo Assicura." }
+                {description:"Created an maintained wordpress websites from client specification" },
+                {description:"Shopify theme development with Liquid from client specification" },
+                {description:"Linux server set up and administration" },
+                {description:"Worked at a fast paced environment which was all remote" }
             ]
         },
         { 
             name: "Code For Fun",
-            description: "Xtphere Srl is a company which carries out innovative solutions for Web & Digital Technology, Mobile Experience, Document Process Management, Big Data and Cloud Migration.",
-            role: "Full Stack Developer ",
+            description: "Code for fun is a non-profit organisation that aims to teach youngsters code",
+            role: "Python and Scratch tutor",
             type: "Work",
-            startDate: "Jun 2018",
-            endDate: "Nov 2019",
+            startDate: "November 2019",
+            endDate: "March 2020",
             roles:[
                 {description:" Developed features and maintained an insurance engine, made with JavaEE & AngularJS for Intesa SanPaolo Assicura." },
                 {description:" Migrated projects from old Libraries & tools to new ones and improved general performance." },
@@ -106,27 +106,26 @@ export default new Vuex.Store({
             ]
         }, { 
             name: "Finchatbot",
-            description: "Edisoft Srl is a small web agency specialized in development of websites & web applications, it also offers high quality graphic design, online advertising and SEO optimization. ",
+            description: "Worked as an intern for a  AI powered solution for Financial institutions",
             role: "Front End Developer ",
             type: "Work",
-            startDate: "Gen 2017",
-            endDate: "Jun 2017",
+            startDate: "April 2019",
+            endDate: "November 2019",
             roles:[
-                {description:" Maintained E-Commerce website and added new features, with Wordpress." },
-                {description:" Developed and maintained code for client websites, mostly using HTML, CSS, Javascript, Jquery & PHP." },
+                {description:" Designed, created and maintained sales acquisition, client retention and lead generation chatbots" },
+                {description:" Developed and maintained the full-stack application build with Node.js, Postgresql and Knockout.js and Jquery" },
+                {description:"Server maintenance and Devops for continous intergration and deployment using Docker containers"}
             ]
         }, { 
             name: "Technify Africa",
             description: " ",
-            role: "Student",
-            type: "education",
-            startDate: "Sep 2010",
-            endDate: "Jun 2016",
+            role: "Web Developer and Sales Agent",
+            type: "work",
+            startDate: "Feb 2019",
+            endDate: "April 2019",
             roles:[
-                { description:" In depth learning of OOP programing with C#. " },
-                { description:" In depth learning of HTML, CSS, JS & Jquery. " },
-                { description:" Learned basics of development of C & C++." },
-                { description:" Learned basics of networks and their structure. " }
+                { description:" Created e-commerce websites with Shopify and Wordpress. " },
+                { description:" Implementation of marketing and client acquisition strategy. " }
             ]
         }
     ], socials: [
