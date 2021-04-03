@@ -23,7 +23,7 @@
       </div>
       <button
         class="text-primary-main rounded-sm text-lg p-4 border-2 hover:bg-transparent-primary my-4"
-        onclick="location.href='mailto:gilbert.ndresaj@gmail.com'"
+        onclick="location.href='mailto:lebohang.kuenane44@gmail.com'"
       >
         Get In Touch
       </button>
