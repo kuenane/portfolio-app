@@ -50,12 +50,12 @@ export default new Vuex.Store({
         ]
     }, {
         name: "portfolio",
-        description: "Portfolio made with Vue.js and Tailwind css! This portfolio is open source and you can find it on Github!",
-        link: "https://github.com/gilnd/portfolio",
+        description: "Portfolio made with Vue.js and Tailwind css",
+        link: "https://github.com/kuenane/portfolio-app",
         icon: "address-card",
-        startDate: "Sep 20, 2019",
+        startDate: "April 2, 2021",
         endDate: "Present",
-        developer: "gilbertndr",
+        developer: "Lebohang Kuenane",
         tags: [
             { name: "#opensource" },
             { name: "#vue" },
@@ -63,13 +63,13 @@ export default new Vuex.Store({
             { name: "#portfolio" }
         ]
     },{
-        name: "adbFI",
-        description: "abdFi is an Android app that lets you debug Android apps over Wi-Fi, without the cable connected to your PC!",
-        link: "https://github.com/gilnd/adbFI",
+        name: "Nodejs JWT RestAPIs",
+        description: "Nodejs JWT RestAPIs",
+        link: "Nodejs JWT RestAPIs",
         icon: "wifi",
         startDate: "Sep 20, 2019",
         endDate: "Present",
-        developer: "gilbertndr",
+        developer: "Lebohang Kuenane",
         tags: [
             { name: "#opensource" },
             { name: "#android" },
@@ -131,15 +131,15 @@ export default new Vuex.Store({
     ], socials: [
         {
             name: "LinkedIn",
-            link: "https://linkedin.com/in/gilbertndr/",
+            link: "https://www.linkedin.com/in/lebohangkuenane/",
             icon: "linkedin" 
         }, {
             name: "Github",
-            link: "https://github.com/gilnd",
+            link: "https://github.com/kuenane",
             icon: "github" 
         }, {
             name: "Twitter",
-            link: "https://twitter.com/gilbertndr",
+            link: "https://twitter.com/Geek_lebo",
             icon: "twitter" 
         },   
     ]
